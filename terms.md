@@ -1,3 +1,4 @@
+<style> header { display: none !important; } </style>
 # Stepquiz 서비스 이용약관
 
 ## 제1장 총칙
