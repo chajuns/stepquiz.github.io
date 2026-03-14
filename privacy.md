@@ -1,4 +1,18 @@
-<style> header { display: none !important; } </style>
+<style>
+  /* 1. 기본 간판 숨기기 */
+  header, .page-header, .site-header, .repo-header { display: none !important; }
+
+  /* 2. 전체 글씨 크기 및 줄 간격 조절 */
+  body {
+    font-size: 16px !important;  /* 기본 본문 글씨 크기 (숫자를 키우면 커집니다) */
+    line-height: 1.8 !important; /* 줄 간격 (1.8 정도면 모바일에서 읽기 아주 편합니다) */
+    color: #333333 !important;   /* 글씨 색상 (너무 진한 검은색보다 짙은 회색이 눈이 편합니다) */
+  }
+
+  /* 3. 제목 글씨 크기 조절 */
+  h1 { font-size: 26px !important; } /* 최상단 큰 제목 (예: Stepquiz 서비스 이용약관) */
+  h2 { font-size: 20px !important; } /* 중간 제목 (예: 제1장 총칙) */
+</style>
 
 # Stepquiz 개인정보처리방침
 
