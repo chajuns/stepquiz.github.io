@@ -1,4 +1,6 @@
-<style> header { display: none !important; } </style>
+<style>
+  header, .page-header, .site-header, .repo-header { display: none !important; }
+</style>
 
 # Stepquiz 서비스 이용약관
 
