@@ -1,3 +1,4 @@
+<style> header { display: none !important; } </style>
 # Stepquiz 개인정보처리방침
 
 Stepquiz(이하 ‘회사’ 또는 '서비스')는 사용자의 개인정보를 소중하게 생각하며, 「개인정보 보호법」 등 관련 법령을 준수하고 있습니다.
